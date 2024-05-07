@@ -1,6 +1,7 @@
 ## Old profession icons
 
 for Wakfu MMO
+- in my opinion old icons are more legible.
 ___
 ### Windows Install:
 - Put **"themeSimple.png"** file into your theme folder:
